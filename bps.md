@@ -37,3 +37,7 @@ for i in range(N):
 for i in range(N):
     print(i+1, bfs(graph)[i], sep=" ")
 ```
+
+
+下記リンクの問題で、実装が正しいか確認することができます。<br>
+>[AOJ-ALDS1-11-C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C)
