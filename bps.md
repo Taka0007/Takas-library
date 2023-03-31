@@ -10,6 +10,7 @@
 ```python:bps.py
 from collections import deque
 
+#隣接リストを入力すると、幅優先探索の結果を返す
 def bfs(graph):
     dist = [-1]*(len(graph))  
     #訪問予定のキューに最初の頂点を追加
@@ -26,6 +27,7 @@ def bfs(graph):
 
     return dist
 
+#input
 N = int(input())
 graph = []
 for i in range(N):
