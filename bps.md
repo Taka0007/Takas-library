@@ -2,11 +2,13 @@
 幅優先探索の結果を返します。<br>
 該当頂点にたどり着けない場合は`-1`を返します。
 
-計算量
+* 計算量
 
-入力形式
+* 入力形式
 >
 
+
+* コード
 ```python:bps.py
 from collections import deque
 
@@ -39,6 +41,7 @@ for i in range(N):
 ```
 
 
+* 追記 <br>
 下記リンクの問題で、実装が正しいか確認することができます。<br>
 
 >[AOJ-ALDS1-11-C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C)
