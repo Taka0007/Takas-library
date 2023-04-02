@@ -5,7 +5,13 @@
 * 計算量
 
 * 入力形式
->
+>4  <br>
+>1 2 2 4 <br>
+>2 1 4  <br>
+>……  <br>
+>4 1 3  <br>
+
+最初に頂点の数Nを入力。
 
 
 * コード
@@ -42,7 +48,7 @@ for i in range(N):
 
 
 * 追記 <br>
-下記リンクの問題で、実装が正しいか確認することができます。<br>
+下記リンクの問題で、実装が正しいかどうかを確認することができます。<br>
 
 >[AOJ-ALDS1-11-C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C)
 
