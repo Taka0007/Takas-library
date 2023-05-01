@@ -6,3 +6,4 @@
 </div></details>
 
 
+# [こちらのレポジトリ](https://github.com/Taka0007/Self-Computer-Science-Experiments/tree/main/zzzzzzz-My-library)に移行済み
